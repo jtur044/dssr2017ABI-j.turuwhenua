@@ -1,14 +1,14 @@
 # Video annotation viewer 
 
-A web-based annotations file
+A web-based application for the purpose of viewing annoted video.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+A demonstration is available at THIS WEBSITE. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-You will need a web server. The project is written in HTML5/Javascript 
+You will need a web server to host the project. The project is written in HTML5/Javascript 
 
 ### Installing
 
