@@ -1,6 +1,6 @@
 # Video annotation viewer 
 
-An HTML5/Javascript web-based application for the purpose of viewing annoted video.
+An HTML5/Javascript web-based application for the purpose of viewing annotated video.
 
 ## Getting Started
 
